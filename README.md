@@ -14,7 +14,7 @@
 ---
 
 ### 🏫 Featured Projects & Organizations
-* **[Golden Glades Middle Platform](https://github.com/GoldenGladesMiddle/GGM-Platform):** Next.js web portal and gradebook system for our virtual school community.
+* **[Golden Glades Middle Platform](https://github.com/GoldenGladesMiddle/GGM-Platform):** Next.js web portal and Discord bots for our virtual school.
 * **[GGM Handbook](https://github.com/GoldenGladesMiddle/ggm-handbook):** Docusaurus-based documentation and staff manuals (`staffdocs.goldengladesms.org`).
 * **[Golden Glades Website](https://github.com/GoldenGladesMiddle/golden-glades-middle):** Core web presence and infrastructure.
 
